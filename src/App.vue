@@ -10,7 +10,6 @@
 import MyHeader from "./components/MyHeader.vue"
 import MyMain from "./components/MyMain.vue"
 
-
 export default {
   name: 'App',
   data() {
@@ -60,7 +59,5 @@ export default {
  @import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,400&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Playfair+Display:wght@700&family=Roboto+Slab:wght@800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,400&display=swap');
 
-
- 
 </style>
  

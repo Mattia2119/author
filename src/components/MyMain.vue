@@ -1,15 +1,24 @@
 <template>
-  <div>
 
-  </div>
+  <main> 
+    <FirstJumbo/>
+  </main>
+
+
 </template>
 
 <script>
-export default {
- name: "MyMain"
-}
+ import FirstJumbo from "./partials/FirstJumbo.vue"
+
+  export default {
+  name: "MyMain",
+  components: {
+    FirstJumbo,
+  }
+  }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" scoped> 
+
 
 </style>
