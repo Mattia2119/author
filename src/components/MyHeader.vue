@@ -44,7 +44,6 @@ export default {
 
 header {
     height: 100vh;
-    border: 1px solid black;
     background-image: linear-gradient( to top, black, transparent), url("../assets/style/img/hero-07-2x.jpg");   
     background-size: cover;
     background-repeat: no-repeat;
