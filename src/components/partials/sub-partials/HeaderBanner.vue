@@ -1,7 +1,7 @@
 <template>
     <div class="container">
          <div class="image-box">
-             <img src="../../assets/style/img/book-widget.png">
+             <img src="../../../assets/style/img/book-widget.png">
          </div>
          <div class="text-box">
              <h1>Latest Book Release</h1>
@@ -23,7 +23,7 @@ export default {
 
 <style lang="scss" scoped>
 
-@import "../../assets/style/variables.scss";
+@import "../../../assets/style/variables.scss";
 
  .container {
      background-color: white;

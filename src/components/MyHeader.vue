@@ -18,9 +18,9 @@
 
 <script>
 
-import MyLogo from "./partials/MyLogo.vue"
+import MyLogo from "./partials/sub-partials/MyLogo.vue"
 import MyNav from "./partials/MyNav.vue"
-import HeaderBanner from "./partials/HeaderBanner.vue"
+import HeaderBanner from "./partials/sub-partials/HeaderBanner.vue"
 
 export default {
  name: "MyHeader",

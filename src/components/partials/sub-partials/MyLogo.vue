@@ -1,7 +1,7 @@
 <template>
 
     <div class="logo-box">
-      <img src="../../assets/style/img/author-logo-round.png">
+      <img src="../../../assets/style/img/author-logo-round.png">
     </div>
 
 </template>
