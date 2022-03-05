@@ -2,7 +2,7 @@
     <section>
         <div class="container">
             <div class="box">      
-                  <img src="../../../assets/style/img/ebay-logotan-2x-200x66.png" alt="">
+              <img src="../../../assets/style/img/ebay-logotan-2x-200x66.png" alt="">
              </div>
 
              <div class="box">
