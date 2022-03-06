@@ -50,7 +50,7 @@
                float: left;
                 img {
                     height: 40px;
-                    width: 140px;
+                    width: 120px;
                 }
            }
       }

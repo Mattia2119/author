@@ -6,6 +6,8 @@
     <ThirdJumbo/>
     <FourthJumbo/>
     <FifthJumbo/>
+    <SixthJumbo/>
+    <SeventhJumbo/>
   </main>
 
 
@@ -17,6 +19,8 @@
  import ThirdJumbo from "./partials/ThirdJumbo.vue"
  import FourthJumbo from "./partials/FourthJumbo.vue"
  import FifthJumbo from "./partials/FifthJumbo.vue"
+ import SixthJumbo from "./partials/SixthJumbo.vue"
+ import SeventhJumbo from "./partials/SeventhJumbo.vue"
  
 
   export default {
@@ -26,7 +30,9 @@
     SecondJumbo,
     ThirdJumbo,
     FourthJumbo,
-    FifthJumbo
+    FifthJumbo,
+    SixthJumbo,
+    SeventhJumbo
   }
   }
 </script>

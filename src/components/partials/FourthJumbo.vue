@@ -58,6 +58,7 @@ section {
             h2{
             font-family: 'Playfair Display', serif ;
             color: black;
+            margin-bottom: 10px;
             }
             p{
             color: $saffron;
