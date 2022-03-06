@@ -4,6 +4,7 @@
     <FirstJumbo/>
     <SecondJumbo/>
     <ThirdJumbo/>
+    <FourthJumbo/>
     <FifthJumbo/>
   </main>
 
@@ -14,6 +15,7 @@
  import FirstJumbo from "./partials/FirstJumbo.vue"
  import SecondJumbo from "./partials/SecondJumbo.vue"
  import ThirdJumbo from "./partials/ThirdJumbo.vue"
+ import FourthJumbo from "./partials/FourthJumbo.vue"
  import FifthJumbo from "./partials/FifthJumbo.vue"
  
 
@@ -23,6 +25,7 @@
     FirstJumbo,
     SecondJumbo,
     ThirdJumbo,
+    FourthJumbo,
     FifthJumbo
   }
   }
