@@ -2,6 +2,7 @@
   <div id="app">
     <MyHeader :links="links"/>
     <MyMain/>
+    <MyFooter :footerLinks="footerLinks"/>
   </div>
 </template>
 
@@ -9,6 +10,8 @@
 
 import MyHeader from "./components/MyHeader.vue"
 import MyMain from "./components/MyMain.vue"
+import MyFooter from "./components/MyFooter.vue"
+
 
 export default {
   name: 'App',
@@ -43,12 +46,36 @@ export default {
              text: "Contact Me",
              url: "#",
           },
-        ]
+        ],
+        footerLinks: [
+      {
+             text: "LatestBooks",
+             url: "#",
+          },
+          {
+             text: "Upcoming Events",
+             url: "#",
+          },
+          {
+             text: "Recent Articles",
+             url: "#",
+          },
+          {
+             text: "Business Enquiries",
+             url: "#",
+          },
+          {
+             text: "Visit My Foundation",
+             url: "#",
+          },
+      ]
    }
+   
   },
   components: {
     MyHeader,
-    MyMain
+    MyMain,
+    MyFooter
   }
 }
 </script>
