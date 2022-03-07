@@ -203,6 +203,7 @@ section {
                 }
                  p {
                      text-align: center;
+                     font-size: 16px;
                  }
             }
             .little-container{
@@ -215,6 +216,9 @@ section {
                     color: $keppel;
                     font-size: 17px;
                  }
+                p {
+                    font-size: 16px;
+                }
             }
         }
     }    

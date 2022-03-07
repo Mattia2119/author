@@ -87,6 +87,7 @@ section {
             }
             p {
                 text-align: center;
+                font-size: 16px;
             }
          }
     }
