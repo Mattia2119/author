@@ -22,11 +22,6 @@
                             <li v-for="(link, index) in footerLinks" :key="index">
                              <a :href="link.url"><i class="fa-solid fa-angle-right"></i>&nbsp; {{link.text}}</a>
                             </li>
-                            <!--<li><i class="fa-solid fa-angle-right"></i>&nbsp; Latest Books</li>
-                            <li><i class="fa-solid fa-angle-right"></i>&nbsp; Upcoming Events</li>
-                            <li><i class="fa-solid fa-angle-right"></i>&nbsp; Recents Articles</li>
-                            <li><i class="fa-solid fa-angle-right"></i>&nbsp; Business Enquiries</li>
-                            <li><i class="fa-solid fa-angle-right"></i>&nbsp; Visit My Foundation</li>-->
                         </ul>          
                     </div>
 
